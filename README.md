@@ -1,9 +1,9 @@
 # FUTURE_PE_01: AI Website Copy Generator for Local Businesses
 
-**Internship:** Future Interns, Prompt Engineering Track - 
-**Task 1:** AI Website Copy Generator for Local Businesses - 
-**Intern:** Mounetha E - 
-**Tools used:** Claude, Google Docs, GitHub
+- **Internship:** Future Interns, Prompt Engineering Track
+- **Task 1:** AI Website Copy Generator for Local Businesses 
+- **Intern:** Mounetha E
+- **Tools used:** Claude, Google Docs, GitHub
 
 ## Objective
 Use structured prompts to generate website-ready copy (Homepage, Services, CTA) for different local businesses, adapting the tone to each business type.
